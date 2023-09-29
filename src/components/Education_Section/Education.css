@@ -1,0 +1,46 @@
+/* 
+.portofolio {
+    margin-top: 8rem;
+    box-shadow: 0 0 1rem  rgb(184, 152, 93);
+    background-color: rgb(222, 230, 222);
+    height: 600px;
+}
+
+.card {
+    margin-bottom: 5rem;
+   text-align: center;
+   
+}
+
+.portofolio h1{
+    padding: 2rem; 
+} */
+
+.portofolio {
+    margin-top: 8rem;
+    box-shadow: 0 0 1rem rgb(184, 152, 93);
+    background-color: rgb(222, 230, 222);
+    height: 600px;
+    display: flex; /* Use flex to vertically center content */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+  
+  .card {
+    margin-bottom: 5rem;
+    text-align: center;
+  }
+  
+  .portofolio h1 {
+    padding: 2rem;
+  }
+  
+  /* Add this class to center the text vertically within the card */
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ensure the content takes up the full height of the card */
+  }
+  

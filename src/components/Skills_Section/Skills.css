@@ -1,0 +1,44 @@
+
+
+
+.progress {
+    margin-bottom: 2rem;
+    width: 300px; 
+    height: 40px !important;
+  border-radius: 0 !important;
+}
+  
+  
+  .progress-bar {
+    background-color: #ccc !important;
+    
+  }
+  
+.hh {
+  margin-top: 2rem;
+  color: rgb(73, 72, 72);
+  /* color: red; */
+
+}
+
+  .pp {
+    padding: 5rem; 
+  }
+
+
+  .row.skills {
+    box-shadow: 0 0 1rem  rgb(184, 152, 93);
+    padding : 2rem; 
+  }
+
+  .row.skills h2 {
+
+    margin-bottom: 2rem;
+    color: rgb(73, 72, 72);
+  }
+
+
+  .row.skills h5 {
+color: rgb(134, 109, 62) ;
+
+  }
