@@ -1,7 +1,8 @@
 # iti React JS Task : Portofolio
 
 Create a web page using React that contains the following sections :
-       ● Hero section
+
+       ● Hero section.
        ● Bio section , button to download CV.
        ● Skills section [ HTML , CSS … ]
        ● Education Section
